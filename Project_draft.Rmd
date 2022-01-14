@@ -17,7 +17,7 @@ always_allow_html: true
 </style>
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r Libraries and data set, message=FALSE}
