@@ -3,13 +3,6 @@ Final project: Car crashes in Allegheny county
 Ricardo Ibarra-Gil (ribarrag)
 December 10, 2021
 
-<style type="text/css">
-  body{
-  font-family: Helvetica;
-  font-size: 12pt;
-}
-</style>
-
 ### Introduction
 
 This project looks into data about car crashes in Allegheny County. Its
