@@ -2,7 +2,7 @@
 title: "Markdown_1"
 author: "Ricardo Ibarra-Gil"
 date: "1/14/2022"
-output: rmarkdown::github_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
