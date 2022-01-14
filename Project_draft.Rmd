@@ -9,12 +9,7 @@ output:
     #toc_depth: 3
 always_allow_html: true
 ---
-<style type="text/css">
-  body{
-  font-family: Helvetica;
-  font-size: 12pt;
-}
-</style>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
